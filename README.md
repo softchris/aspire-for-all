@@ -23,6 +23,10 @@ You should have Node.js installed, preferably v 20.
 npm i
 ```
 
+## DEMO
+
+![Aspire demo](./aspire-project.gif)
+
 ## Build and run
 
 ```bash
