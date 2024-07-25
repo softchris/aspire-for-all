@@ -20,6 +20,7 @@ Aspire orchestration code is written in C#, even though it's very few lines of C
 You should have Node.js installed, preferably v 20.
 
 ```bash
+cd js
 npm i
 ```
 
